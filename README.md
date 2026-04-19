@@ -1,3 +1,5 @@
+Scoreboard
+
 A simple interactive scoreboard that allows tracking points for two teams: Home and Away.
 
 📌 Features
